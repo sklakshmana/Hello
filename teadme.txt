@@ -1,0 +1,12 @@
+ Volume in drive C is New Volume
+ Volume Serial Number is 5080-5380
+
+ Directory of C:\Users\xyz\Desktop\JavaTest
+
+08/19/2020  06:07 PM    <DIR>          .
+08/19/2020  06:07 PM    <DIR>          ..
+08/19/2020  06:07 PM               675 Hello.class
+08/19/2020  05:42 PM               155 Hello.java
+08/19/2020  06:07 PM                 0 teadme.txt
+               3 File(s)            830 bytes
+               2 Dir(s)  15,288,094,720 bytes free
